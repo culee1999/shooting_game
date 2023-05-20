@@ -12,3 +12,7 @@ mouse left click : position the ball
 end part : bgm, hp bar, background, shooting system
 what left : how many balls left, gameover, blocked by wall, change background, change target's, wall's, ball's texture, add 2 ~ 3 bgm more,
             change red box, add item
+
+- second commit -
+end part : how many balls left, gameove, blocked by wall, change red box to slingshot, title, stop button
+what left : change game's difficulty, map diversity
