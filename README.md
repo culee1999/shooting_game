@@ -14,5 +14,5 @@ what left : how many balls left, gameover, blocked by wall, change background, c
             change red box, add item
 
 - second commit -
-end part : how many balls left, gameove, blocked by wall, change red box to slingshot, title, stop button
+end part : how many balls left, gameover, blocked by wall, change red box to slingshot, title, stop button
 what left : change game's difficulty, map diversity
